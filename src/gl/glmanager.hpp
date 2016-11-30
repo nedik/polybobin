@@ -33,8 +33,6 @@ class GLManager
         void EditPolygonVertex(unsigned int polygonIndex, PMSPolygonType polygonType,
                                unsigned int vertexIndex, PMSVertex vertex);
 
-        void EditScenery(unsigned int sceneryIndex, PMSScenery scenery);
-
         unsigned int GetTextureWidth();
         unsigned int GetTextureHeight();
 
