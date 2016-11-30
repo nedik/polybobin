@@ -11,6 +11,3 @@ Debug/*
 *.sln
 *.vcxproj
 .vs/*
-
-# Sublime Text
-*.sublime*
